@@ -32,9 +32,13 @@ A place where students learn, instructors rule, and bugs… well, they get destr
 | ⚛ ReactJS | The almighty UI engine |
 | 🛣 React Router | Because teleportation isn't real… yet |
 | 📡 Axios | Talks to backend like a pro |
-| 🎨 Tailwind / CSS | Drip 💅 |
-| 🔥 Vite / CRA | FAST AF builds |
+
 
 ---
-
 ## 🧬 Folder Structure (Organized Chaos)
+
+├── ⚡ components
+├── 🎭 pages
+├── 🔗 services
+├── 🛠 utils
+└── 🎨 styles
